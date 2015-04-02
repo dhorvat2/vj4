@@ -56,5 +56,8 @@ namespace Loto_aplikacija
             } 
             return brojPogodaka; 
         }
+
+        
+        
     }
 }
